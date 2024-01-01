@@ -116,3 +116,6 @@ python manage.py runserver 8000 in the admin page you can view the models create
 ![Alt text](<Screenshot 2023-11-21 090533.png>)
 
 ![Alt text](<Screenshot 2023-11-21 093826.png>)
+
+# RESULT
+Thus the program executed successfully
